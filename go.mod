@@ -7,11 +7,11 @@ require (
 	github.com/go-contrib/uuid v1.2.0
 	github.com/krakend/bloomfilter/v3 v3.0.0
 	github.com/krakend/krakend-amqp/v3 v3.0.0
-	github.com/krakend/krakend-audit/v2 v2.0.0
+	github.com/krakend/krakend-audit/v2 v2.0.1
 	github.com/krakend/krakend-botdetector/v3 v3.0.0
 	github.com/krakend/krakend-cel/v3 v3.0.0
 	github.com/krakend/krakend-circuitbreaker/v4 v4.0.0
-	github.com/krakend/krakend-cobra/v3 v3.0.0
+	github.com/krakend/krakend-cobra/v3 v3.0.1
 	github.com/krakend/krakend-cors/v3 v3.0.0
 	github.com/krakend/krakend-flexibleconfig/v3 v3.0.0
 	github.com/krakend/krakend-gelf/v3 v3.0.0
@@ -27,7 +27,7 @@ require (
 	github.com/krakend/krakend-martian/v3 v3.0.0
 	github.com/krakend/krakend-metrics/v3 v3.0.0
 	github.com/krakend/krakend-oauth2-clientcredentials/v3 v3.0.0
-	github.com/krakend/krakend-otel/v2 v2.0.1
+	github.com/krakend/krakend-otel/v2 v2.0.2
 	github.com/krakend/krakend-pubsub/v3 v3.0.0
 	github.com/krakend/krakend-ratelimit/v4 v4.0.0
 	github.com/krakend/krakend-rss/v3 v3.0.0
